@@ -11,9 +11,9 @@ A "TextAnalyzer" class that is able to take a csv file of text message informati
 
 Below are example outputs for each (which can also be obtained by running the tests.py file): 
 
-* [Term-frequency analysis](./example1)  
-* [TF-IDF analysis](./example2.jpeg)
-* [MNB classifier prediction](./example3.jpeg)
+* [Term-frequency analysis](./example1.jpg)  
+* [TF-IDF analysis](./example2.jpg)
+* [MNB classifier prediction](./example3.jpg)
 
 ## What you learned
 
