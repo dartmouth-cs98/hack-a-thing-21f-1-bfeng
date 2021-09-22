@@ -19,6 +19,8 @@ Below are example outputs for each (which can also be obtained by running the te
 
 The project as a whole worked, mostly because I closely followed the tutorial/example code. It's a bit un-sophisticated and not too useful (for example, the country of origin prediction classifier works better than guessing but is still not very accurate overall). However, it was a good, brief intro to NLP, particularly in regards to the grunt work needed to clean and pre-process data (given the abundance of NLP libraries out there, this is usually the hardest part).
 
+It was a valuable experience, given that I am thinking of doing something related to AI-powered software testing (which would require NLP to read and understand code).
+
 ## Authors
 
 Brandon Feng
