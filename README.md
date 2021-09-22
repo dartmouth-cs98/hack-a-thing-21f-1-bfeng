@@ -1,16 +1,19 @@
-# Hack Technology / Project Attempted
+# Basic NLP using NLTK and scikit-learn
 
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+A "TextAnalyzer" class that is able to take a csv file of text message information and perform some basic analyses:
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+* Words commonly used by senders from specific countries (term-frequency analysis)
+* "Important" words commonly used by senders from specific countries (term-frequency inverse-document-frequency analysis) 
+* Prediction of sender's country of origin based on message (using Multinomial Naive Bayes classifier) 
 
-## Who Did What?
+Below are example outputs for each (which can also be obtained by running the tests.py file): 
 
-TODO: who worked on what part?
+* [Term-frequency analysis](./example1)  
+* [TF-IDF analysis](./example2.jpeg)
+* [MNB classifier prediction](./example3.jpeg)
 
 ## What you learned
 
